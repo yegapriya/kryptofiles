@@ -284,7 +284,7 @@ border-radius: 50%;
   background-color: rgba(77, 75, 196, 0.366);
   z-index: 8;
   border-radius: 102%;
-  right: 1030px;
+  left:323px;
   top: 2400px;
 
 }
@@ -305,7 +305,7 @@ border-radius: 50%;
     background-color: rgba(77, 75, 196, 0.366);
     z-index: 8;
     border-radius: 102%;
-    right: 670px;
+    left:685px;
     top: 2399px;
   
   }
@@ -325,7 +325,7 @@ border-radius: 50%;
     background-color: rgba(77, 75, 196, 0.366);
     z-index: 8;
     border-radius: 102%;
-    right: 314px;
+    left:1067px;
     top: 2399px;
   
   }
